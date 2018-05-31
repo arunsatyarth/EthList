@@ -353,6 +353,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Check out some **DApps**, that run on Ethereum](http://dapps.ethercasts.com/)
 - [Learn **Solidity**, an Ethereum smart contract language](https://solidity.readthedocs.io/)
 - [Learn **Solidity**, by building game on Ethereum](https://cryptozombies.io/en/lesson/1)
+- [Learn **Solidity Auditing**, to Discover issues with smart contract ](https://solidified.io/)
 - [Check out **Truffle**, a smart contract development framework](http://truffleframework.com/)
 - [Browse the Ethereum Ecosystem Business Directory](http://ethereumall.com/)
 - [Ask questions at **Ethereum Stack Exchange**](http://ethereum.stackexchange.com/)
