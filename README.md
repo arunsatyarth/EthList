@@ -355,6 +355,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Read the documentation](http://ethdocs.org/en/latest/) (for Homestead)
 - [Check out some **DApps**, that run on Ethereum](http://dapps.ethercasts.com/)
 - [Learn **Solidity**, an Ethereum smart contract language](https://solidity.readthedocs.io/)
+- [solidity-baby-steps] (https://github.com/fivedogit/solidity-baby-steps/tree/master/contracts)
 - [Learn **Solidity**, by building game on Ethereum](https://cryptozombies.io/en/lesson/1)
 - [Learn **Solidity Auditing**, to Discover issues with smart contract ](https://solidified.io/)
 - [Check out **Truffle**, a smart contract development framework](http://truffleframework.com/)
