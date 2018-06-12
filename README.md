@@ -347,6 +347,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Raise funds from friends without a third party](https://www.ethereum.org/crowdsale)
 - [Build a democracy on the blockchain](https://www.ethereum.org/dao)
 - [Solidity Patterns](https://github.com/fravoll/solidity-patterns)
+- [Solidity Youtube tutorials] (https://github.com/willitscale/learning-solidity)
 - [openzeppelin-Framework to building secure smart contracts](https://github.com/mankenavenkatesh/openzeppelin-solidity)
 - [Build **your first DApp** in ten steps](https://github.com/paritytech/parity/wiki/Tutorial-Part-I)
 - [Ethereum DApp devolpment (videos)](http://decypher.tv/series/ethereum-development)
