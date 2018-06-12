@@ -253,6 +253,9 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Crypto Tokens and the Coming Age of Protocol Innovation
 ](http://continuations.com/post/148098927445/crypto-tokens-and-the-coming-age-of-protocol
 )
+- [Crypto Tokens and the Coming Age of Protocol Innovation
+](https://github.com/ethereum/dapp-bin
+)
 - [The Golden Age Of Open Protocols
 ](http://avc.com/2016/07/the-golden-age-of-open-protocols/
 )
