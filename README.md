@@ -360,6 +360,7 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 - [Learn **Solidity**, an Ethereum smart contract language](https://solidity.readthedocs.io/)
 - [solidity-baby-steps] (https://github.com/fivedogit/solidity-baby-steps/tree/master/contracts)
 - [Learn **Solidity**, by building game on Ethereum](https://cryptozombies.io/en/lesson/1)
+- [Learn **Solidity**, by experimenting on Remix](https://www.bitdegree.org/learn/solidity-example-simple-open-auction/)
 - [Learn **Solidity Auditing**, to Discover issues with smart contract ](https://solidified.io/)
 - [Check out **Truffle**, a smart contract development framework](http://truffleframework.com/)
 - [Browse the Ethereum Ecosystem Business Directory](http://ethereumall.com/)
