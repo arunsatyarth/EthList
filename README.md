@@ -406,3 +406,10 @@ Contributors: Phil Kurtland (Scanate), Robert Hackett (Fortune Magazine), Jorge 
 )
 
 ![Ethereum](https://upload.wikimedia.org/wikipedia/commons/b/b7/ETHEREUM-YOUTUBE-PROFILE-PIC.png)
+
+
+
+## My Links
+[Medium Article on steps to learn](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
+[Dapp tutorial video](https://www.youtube.com/watch?v=3681ZYbDSSk)
+[Use cases](https://medium.com/fluree/blockchain-for-2018-and-beyond-a-growing-list-of-blockchain-use-cases-37db7c19fb99)
